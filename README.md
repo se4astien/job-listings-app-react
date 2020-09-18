@@ -17,6 +17,8 @@ Download the starter code and go through the README.md file. This will provide f
 
 ## Online
 
+https://job-listings-app-react.netlify.app/
+
 ## Screenshot
 
-<img src="" alt="job listings" width="70%" />
+<img src="https://github.com/se4astien/job-listings-app-react/blob/master/src/job-listings.png" alt="job listings" width="70%" />
